@@ -1,6 +1,9 @@
-### I'm Sohaib 👋
-
+<p align="center">
+<b>I'm Sohaib 👋</b>
+</p>
+<p align="center">
 Aspiring Software Engineer - Software Engineering Student 💻 
+</p>
 
 🚀 About me
 
@@ -8,7 +11,7 @@ Aspiring Software Engineer - Software Engineering Student 💻
 
 💻 I first became interested in coding during my freshman year, and I've been committed ever since.
 
-🎨 I am passionate about web development including frontend(CSS,bootstrap,jQuery) and backend(Python,MERN,LARAVEL) and general web design. My true passion is creating visually appealing and user-friendly responsive websites.
+🎨 I am passionate about web development including frontend(**CSS,bootstrap,jQuery**) and backend(**Flask,Django,MERN,Laravel**) and general web design. My true passion is creating visually appealing and user-friendly responsive websites.
 
 💡 I'm expanding my knowledge of design patterns, algorithms, and data structures to improve my talents.
 
