@@ -1,4 +1,30 @@
-### Hi there 👋
+### I'm Sohaib 👋
+
+Aspiring Software Engineer - Software Engineering Student 💻 
+
+🚀 About me
+
+🎓 I'm a dedicated student pursuing a bachelor's degree in software engineering at National University of Sciences and Technology, and I expect to graduate in 2025.
+
+💻 I first became interested in coding during my freshman year, and I've been committed ever since.
+
+🎨 I am passionate about web development including frontend(CSS,bootstrap,jQuery) and backend(Python,MERN,LARAVEL) and general web design. My true passion is creating visually appealing and user-friendly responsive websites.
+
+💡 I'm expanding my knowledge of design patterns, algorithms, and data structures to improve my talents.
+
+🎮 Outside of programming, I enjoy hanging out with friends.
+
+🛠️Skills
+
+**Programming Languages**
+
+- Python
+
+- JavaScript/Typescript
+
+- CSS
+
+
 
 <!--
 **Sohaib-Ahmed21/Sohaib-Ahmed21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
