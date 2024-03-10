@@ -27,6 +27,10 @@ Aspiring Software Engineer - Software Engineering Student 💻
 
 - CSS
 
+- C++
+
+- Java
+
 
 
 <!--
