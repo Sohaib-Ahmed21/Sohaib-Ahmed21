@@ -25,11 +25,9 @@ Aspiring Software Engineer - Software Engineering Student 💻
 
 - JavaScript/Typescript
 
-- CSS
-
 - C++
 
-- Java
+
 
 
 
