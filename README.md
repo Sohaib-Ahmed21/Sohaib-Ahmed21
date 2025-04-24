@@ -11,7 +11,7 @@ Aspiring Software Engineer - Software Engineering Student 💻
 
 💻 I first became interested in coding during my freshman year, and I've been committed ever since.
 
-🎨 I am passionate about machine learning, with a focus on building and deploying models using PyTorch. I enjoy working on tasks like computer vision, natural language processing, and time series analysis, leveraging PyTorch’s flexibility and power.
+🎨 I am passionate about machine learning, with a focus on building and deploying models using PyTorch, Tensorflow, Jax and Keras. I enjoy working on tasks like computer vision, natural language processing, and time series analysis, leveraging backend flexibility and power.
 
 💡 I'm expanding my knowledge of design patterns, algorithms, and data structures to improve my talents.
 
