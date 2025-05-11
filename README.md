@@ -1,31 +1,59 @@
+<h1 align="center">Hey there, I'm Sohaib 👋</h1>
+<h3 align="center">AI/ML Engineer | Final-Year SE Student | Open Source Contributor</h3>
+
 <p align="center">
-<b>I'm Sohaib 👋</b>
+  <a href="https://www.linkedin.com/in/sohaib-ahmed-2b8b64249/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:sohaibahmed1919@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
 </p>
-<p align="center">
-Aspiring Software Engineer - Software Engineering Student 💻 
-</p>
 
-🚀 About me
+---
 
-🎓 I'm a dedicated student pursuing a bachelor's degree in software engineering at National University of Sciences and Technology, and I expect to graduate in 2025.
+### 🧠 About Me
 
-💻 I first became interested in coding during my freshman year, and I've been committed ever since.
+🎓 I'm a final-year Software Engineering student at **NUST (National University of Sciences and Technology)**, graduating in **2025**.  
+💡 I became passionate about coding in my freshman year and have since grown into an enthusiastic AI/ML engineer.  
 
-🎨 I am passionate about machine learning, with a focus on building and deploying models using PyTorch, Tensorflow, Jax and Keras. I enjoy working on tasks like computer vision, natural language processing, and time series analysis, leveraging backend flexibility and power.
+🚀 I love working on:
+- Deep Learning with PyTorch, TensorFlow, and JAX
+- End-to-end ML pipelines
+- Real-world problems in Computer Vision, NLP, and Time Series
 
-💡 I'm expanding my knowledge of design patterns, algorithms, and data structures to improve my talents.
+🧪 I've contributed to some amazing open-source AI libraries:
+- 📦 [Keras: Added DeiT (Vision Transformer)](https://github.com/keras-team/keras-hub/pull/2203)
+- ⏱ [sktime: Integrated PyTorch and HuggingFace models](https://github.com/sktime/sktime/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
+- 🔮 [PyTorch Forecasting: Added TIDE Model](https://github.com/jdb78/pytorch-forecasting/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
+- 📨 [Zulip: Improvements to onboarding and UI flows](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 
-🎮 Outside of programming, I enjoy hanging out with friends.
+🌱 I'm currently sharpening my skills in system design, optimization, and scalable AI services.  
+🎮 Outside of work, I enjoy strategy games and spending time with friends.
 
-🛠️Skills
+---
 
-**Programming Languages**
+### 🧰 Tech Toolbox
 
-- Python
+#### 🧑‍💻 Languages
+- Python • C++ • JavaScript / TypeScript
 
-- JavaScript/Typescript
+#### 🔍 AI & ML
+- PyTorch, TensorFlow, Keras, JAX
+- HuggingFace Transformers, OpenCV
+- Langchain, sktime, Unsloth
 
-- C++
+#### 🌐 Backend / Infra
+- FastAPI, Flask
+- Docker, Git, CI/CD
+- SQL, MongoDB, Pinecone, FAISS
+- Azure, GCP
+
+---
+
+> “Code what matters, learn what lasts, and keep shipping 🚢”
+
 
 
 
