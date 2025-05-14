@@ -25,7 +25,7 @@
 
 🧪 I've contributed to some amazing open-source AI libraries:
 - 📦 [Keras: Added DeiT (Vision Transformer)](https://github.com/keras-team/keras-hub/pull/2203)
-- ⏱ [sktime: Integrated PyTorch and HuggingFace models](https://github.com/sktime/sktime/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
+- ⏱ [sktime: Integrated pretrained PyTorch models](https://github.com/sktime/sktime/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 - 🔮 [PyTorch Forecasting: Added TIDE Model](https://github.com/jdb78/pytorch-forecasting/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 - 📨 [Zulip: Improvements to onboarding and UI flows](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 
