@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-🎓 I'm a final-year Software Engineering student at **NUST (National University of Sciences and Technology)**, graduating in **2025**.  
+🎓 I'm an AI Development Engineer at [VResolv](https://vresolv.io/), graduated in Software Engineering from **NUST (National University of Sciences and Technology)** in **2025**.  
 💡 I became passionate about coding in my freshman year and have since grown into an enthusiastic AI/ML engineer.  
 
 🚀 I love working on:
