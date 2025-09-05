@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sohaib 👋</h1>
-<h3 align="center">AI/ML Engineer | Final-Year SE Student | Open Source Contributor</h3>
+<h3 align="center">AI/ML Engineer | Open Source Contributor | Freelance</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sohaib-ahmed-2b8b64249/" target="_blank">
