@@ -29,6 +29,8 @@
 - ⏱ [sktime: Integrated pretrained PyTorch models](https://github.com/sktime/sktime/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 - 🔮 [PyTorch Forecasting: Added TIDE Model](https://github.com/jdb78/pytorch-forecasting/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
 - 📨 [Zulip: Improvements to onboarding and UI flows](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3ASohaib-Ahmed21)
+- ⚡ [PyTorch Lightning: Actively contributing to core features & improvements](https://github.com/Lightning-AI/pytorch-lightning/pulls?q=is%3Apr+author%3ASohaib-Ahmed21+is%3Aclosed)  
+
 
 🌱 I'm currently sharpening my skills in system design, optimization, and scalable AI services.  
 🎮 Outside of work, I enjoy strategy games and spending time with friends.
